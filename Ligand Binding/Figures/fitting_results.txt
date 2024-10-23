@@ -1,0 +1,7 @@
+    E_max   K_D   n
+ph3 1.06020631 0.01777591 1.42018972
+ph7 1.09189907 0.01183027 1.00922149
+(It's wired that the fitting results of E_max is larger than 1. That could because it's a fitting result...)
+The emission maximum wavelength:
+ph3: 329.542nm
+ph7: 342.952nm
