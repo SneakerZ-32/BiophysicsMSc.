@@ -1,0 +1,22 @@
+\documentclass[12pt]{article}
+\begin{document}
+\section{material}
+Protein we actually using: BSA
+
+Volume we finally got is around 10 microliter (which should be 20 microliter)
+reason: some of them left in the column.
+
+\section{How likely to find proteins with different labels}
+The probability of a protein has k dye labels follows follows Poisson distribution:\\
+
+\(P(k,\lambda) = \frac{\lambda^k e^{-\lambda}}{k!}\)\\
+
+where $\lambda$ is the average of the labelled protein.
+
+\textbf{How to acquire $\lambda$}
+
+Refer to the \textit{Characterization of labelling(P9)}, the $\lambda$ here is the labelling efficiency(the ratio of dye molecules to protein molecule), which can be acquired by the process on P8 and P9.
+
+After that, the probability of non-labelled, single labelled and double labelled are derived a $P(k = 0), P(k = 1) and P( k = 2)$
+
+\end{document}
