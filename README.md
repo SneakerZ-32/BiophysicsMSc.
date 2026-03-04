@@ -1,31 +1,30 @@
 # BiophysicsMSc.
 Reports of various Laboratories and research projects done during my Biophysics MSc. (https://www.uni-ulm.de/nawi/international-masters-degree-programmes/current-students/biophysics/biophysicslab/) at Ulm University together my Friend and Lab Mate HaiYang Zheng.
 
+ **Here is the list of the Completed Lab Reports**
 
-**Here is the list of the Completed Labs**  
+- [Atomic force microscopy](Atomic%20Force%20Microscope%20Lab%20Report/AFM%20Final%20Report.pdf)
 
--[Atomic force microscopy](Atomic Force Microscope Lab Report/AFM Final Report.pdf)
+- [Protein Crystalization](Protein%20Crystalization/Protein%20Crystalization%20Report.pdf)
 
--[Protein Crystalization](Reports/2.Protein%20crystalization.pdf)
+- [Protein labelling](Protein%20Labelling/Protein%20Labelling%20Report.pdf)
 
--[Protein labelling](Reports/3.Protein%20labelling.pdf)
+- [Fluorescence lifetime](Fluorescence%20Lifetime/Fluorescence%20Lifetime%20Report.pdf)
 
--[Fluorescence lifetime](Reports/4.Fluorescence%20lifetime.pdf)
+- [Bioinformatics](Bioinformatics/Bioinformatics%20Lab%20Report.pdf)
 
--[Bioinformatics](Reports/5.Bioinformatics.pdf)
+- [Single molecule FRET](Not specified in the new paths)
 
--[Single molecule FRET](Reports/6.Single%20molecule%20FRET.pdf)
+- [Optical tweezers](Optical%20Tweezers/Optical_Tweezers_Report.pdf)
 
--[Optical tweezers](Reports/7.Optical%20tweezers.pdf)
+- [Live cell imaging](Live%20Cell%20Imaging/Live%20Cell%20Imaging%20Report.pdf)
 
--[Live cell imaging](Reports/8.Live%20cell%20imaging.pdf)
+- [Stopped-flow kinetics](Stopped%20Flow%20Kinetics/Stopped%20Flow%20Kinetics%20Report.pdf)
 
--[Stopped-flow kinetics](Reports/9.Stopped\-flow%20kinetics.pdf)
+- [Gene expression](Gene%20Expression/Gene_Expression_%20Final_Report.pdf)
 
--[Gene expression](Reports/10.Gene%20expression.pdf)
+- [Ligand binding](Ligand%20Binding/Ligand%20Binding%20Report.pdf)
 
--[Ligand binding](Reports/11.Ligand%20binding.pdf)
+- [Ion channel](Ion%20Channels/Ion%20Channel%20Report.pdf)
 
--[Ion channel](Reports/12.Ion%20channel.pdf)
-
--[Superresolution microscopy](Reports/13.Superresolution%20Microscopy.pdf)
+- [Superresolution microscopy](Superresolution%20Microscopy/Superresolution%20Microscopy%20Report.pdf)
