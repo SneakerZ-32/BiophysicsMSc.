@@ -13,7 +13,7 @@ Reports of various Laboratories and research projects done during my Biophysics 
 
 - [Bioinformatics](Bioinformatics/Bioinformatics%20Lab%20Report.pdf)
 
-- [Single molecule FRET](Not specified in the new paths)
+- [Single molecule FRET](Single%20Molecule%20FRET/6.Single%20molecule%20FRET.pdf)
 
 - [Optical tweezers](Optical%20Tweezers/Optical_Tweezers_Report.pdf)
 
