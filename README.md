@@ -1,4 +1,4 @@
-# BiophysicsMSc.
+# Biophysics MSc.
 Reports of various Laboratories and research projects done during my Biophysics MSc. (https://www.uni-ulm.de/nawi/international-masters-degree-programmes/current-students/biophysics/biophysicslab/) at Ulm University together with my Friend and Lab Mate HaiYang Zheng.
 
  **Here is the list of the Completed Lab Reports**
