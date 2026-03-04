@@ -4,7 +4,7 @@ Reports of various Laboratories and research projects done during my Biophysics 
 
 **Here is the list of the Completed Labs**  
 
--[Atomic force microscopy](Reports/1.Atomic%20force%20microscopy.pdf)
+-[Atomic force microscopy](Atomic Force Microscope Lab Report/AFM Final Report.pdf)
 
 -[Protein Crystalization](Reports/2.Protein%20crystalization.pdf)
 
